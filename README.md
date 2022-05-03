@@ -1,4 +1,3 @@
-# NetCDF-files-in-R
+# (1)-NetCDF-files-in-R-Atlantic-SSTs-timeseries
 How to use NetCDF files in R applied to climate data.
-
-Example: ERA5 reanalysis Sea Surface Temperatures (SSTs) of tropica and subtropical south Atlantic.
+Example: ERA5 reanalysis Sea Surface Temperatures (SSTs) timeseries of tropica and subtropical south Atlantic.
